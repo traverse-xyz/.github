@@ -1,4 +1,4 @@
-# Traverse [Coming Soon]
+# Traverse
 
 Empowering Explorers, Connecting Journeys
 
